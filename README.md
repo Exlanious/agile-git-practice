@@ -10,3 +10,6 @@ The approach also seems to treat game development as an iterative process, where
 ## Comment - Anthony Kim
 
 The emphasis on keeping game architecture simple and intentional is a great reminder that good architecture should make development easier, not add unnecessary complexity. Lots of practical ideas here that are easy to apply as a game developer myself. 
+## Eric's Comment (paper595)
+
+I especially agree that isolating individual game systems makes it easier to test and modify mechanics without causing unintended changes throughout the rest of the game.
