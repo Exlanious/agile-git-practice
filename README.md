@@ -7,6 +7,6 @@ What I find interesting about the article is its emphasis on architecture as a w
 
 The approach also seems to treat game development as an iterative process, where the architecture needs to support experimentation rather than fight against it. That’s an important distinction from more rigid software architectures. In games, mechanics and systems often need to be changed repeatedly as you discover what is actually fun. Having a structure that keeps those changes localized can make a big difference in both the development process and the ability to experiment with new ideas.
 
+## Eric's Comment (paper595)
 
-
-
+I especially agree that isolating individual game systems makes it easier to test and modify mechanics without causing unintended changes throughout the rest of the game.
